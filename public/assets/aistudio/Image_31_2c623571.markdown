@@ -1,0 +1,239 @@
+---
+name: Lereng Asri Tourism Portal
+colors:
+  surface: '#fff8f3'
+  surface-dim: '#e3d8cd'
+  surface-bright: '#fff8f3'
+  surface-container-lowest: '#ffffff'
+  surface-container-low: '#fdf2e6'
+  surface-container: '#f7ece1'
+  surface-container-high: '#f2e6db'
+  surface-container-highest: '#ece1d6'
+  on-surface: '#201b14'
+  on-surface-variant: '#414844'
+  inverse-surface: '#352f28'
+  inverse-on-surface: '#faefe4'
+  outline: '#717973'
+  outline-variant: '#c1c8c2'
+  surface-tint: '#3f6653'
+  primary: '#012d1d'
+  on-primary: '#ffffff'
+  primary-container: '#1b4332'
+  on-primary-container: '#86af99'
+  inverse-primary: '#a5d0b9'
+  secondary: '#954a17'
+  on-secondary: '#ffffff'
+  secondary-container: '#ff9e65'
+  on-secondary-container: '#773400'
+  tertiary: '#002c24'
+  on-tertiary: '#ffffff'
+  tertiary-container: '#1b423a'
+  on-tertiary-container: '#86aea3'
+  error: '#ba1a1a'
+  on-error: '#ffffff'
+  error-container: '#ffdad6'
+  on-error-container: '#93000a'
+  primary-fixed: '#c1ecd4'
+  primary-fixed-dim: '#a5d0b9'
+  on-primary-fixed: '#002114'
+  on-primary-fixed-variant: '#274e3d'
+  secondary-fixed: '#ffdbc9'
+  secondary-fixed-dim: '#ffb68d'
+  on-secondary-fixed: '#331200'
+  on-secondary-fixed-variant: '#763300'
+  tertiary-fixed: '#c1ebdf'
+  tertiary-fixed-dim: '#a6cfc3'
+  on-tertiary-fixed: '#00201a'
+  on-tertiary-fixed-variant: '#274e45'
+  background: '#fff8f3'
+  on-background: '#201b14'
+  surface-variant: '#ece1d6'
+typography:
+  display:
+    fontFamily: Epilogue
+    fontSize: 48px
+    fontWeight: '700'
+    lineHeight: 56px
+    letterSpacing: -0.02em
+  display-mobile:
+    fontFamily: Epilogue
+    fontSize: 34px
+    fontWeight: '700'
+    lineHeight: 42px
+    letterSpacing: -0.015em
+  headline-lg:
+    fontFamily: Epilogue
+    fontSize: 36px
+    fontWeight: '600'
+    lineHeight: 44px
+    letterSpacing: -0.01em
+  headline-lg-mobile:
+    fontFamily: Epilogue
+    fontSize: 26px
+    fontWeight: '600'
+    lineHeight: 34px
+    letterSpacing: -0.01em
+  headline-md:
+    fontFamily: Epilogue
+    fontSize: 24px
+    fontWeight: '600'
+    lineHeight: 32px
+  headline-sm:
+    fontFamily: Epilogue
+    fontSize: 20px
+    fontWeight: '600'
+    lineHeight: 28px
+  body-lg:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 18px
+    fontWeight: '400'
+    lineHeight: 28px
+  body-md:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 16px
+    fontWeight: '400'
+    lineHeight: 24px
+  body-sm:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 14px
+    fontWeight: '400'
+    lineHeight: 20px
+  label-lg:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 16px
+    fontWeight: '600'
+    lineHeight: 24px
+    letterSpacing: 0.01em
+  label-md:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 14px
+    fontWeight: '600'
+    lineHeight: 20px
+    letterSpacing: 0.01em
+  label-sm:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 12px
+    fontWeight: '600'
+    lineHeight: 16px
+    letterSpacing: 0.02em
+rounded:
+  sm: 0.25rem
+  DEFAULT: 0.5rem
+  md: 0.75rem
+  lg: 1rem
+  xl: 1.5rem
+  full: 9999px
+spacing:
+  gutter: 1rem
+  gutter-tablet: 1.5rem
+  gutter-desktop: 2rem
+  margin: 1rem
+  margin-tablet: 2rem
+  margin-desktop: 3rem
+  space-xs: 0.25rem
+  space-sm: 0.5rem
+  space-md: 1rem
+  space-lg: 1.5rem
+  space-xl: 2.5rem
+---
+
+## Brand & Style
+This design system embodies the serene, hospitable atmosphere of an Indonesian mountain eco-village (*Desa Wisata*). The aesthetic synthesizes modern tactile warmth with earthy minimalismâ€”evoking lush terraced hillsides, damp volcanic loam, and handcrafted bamboo pavilions.
+
+### Brand Personality & Emotional Impact
+- **Heartfelt & Welcoming (*Guyub & Ramah*):** The interface conveys genuine rural warmth and openness, avoiding cold corporate sterility.
+- **Rooted in Nature (*Asri & Alami*):** Grounded in verdant botanical tones and sunlit organic textures that immediately lower sensory fatigue.
+- **Accessible & Generous:** Engineered intentionally for multi-generational touristp %œ›ÛHXÚ\Ø]HÚ]H˜]™[\œÈÈš\Ú][™È[\œø %š[Üš]^š[™È^[œÚ]™HİXÚ›İ[™\šY\Ë[›Z\İZØX›HY™›Ü™[˜Ù\Ë[™™\›È[XšYİZ]K‚‚ˆÈÈÈš\İX[İ[B•HŞ\İ[HY\™\ÈÈ[ˆ
+Š“Ü™Ø[šXÈXİ[H[Ù\›š\ÛJŠˆœ˜[Y]ÛÜšÎ‚‹HÙ[™\›İ\Ë›İ[™Yİ\™˜XÙ\ÈZ[ZXÚÚ[™ÈÛ[ÛİYš]™\ˆİÛ™\È[™Ü˜YYXZÈÛÛÙ‚‹H[\H™YØ]]™HÜXÙH˜]Y[ˆÛÙ]›ÜHYÚÈÙY\][™\˜\šY\È[™š[YÙHÛY\İ^\È™XYX›H[™\ˆ\™Xİİ[›YÚİ]ÛÜœË‚‹HİXH\XÚY]™Y›İYÚ[XšY[Ø\›HÚYİÜÈ˜]\ˆ[ˆÚ\œ›Ü[Ù™œË‚‚ˆÈÈÛÛÜœÂ•H[]HØ\\™\ÈH^Y\™Y›ÛXYÙH[™[™XØ\™YXØÙ[ÈÙˆH[ÚYH™]™X]‚‚ˆÈÈÈ[]H\˜Ú]Xİ\™B‹H
+Š”š[X\H
+ÌPÌÌ˜HY\Ø[›ÜH›Ü™\İ
+NŠŠˆH™Y›ØÚÈ[˜ÚÜ‹ˆ[\\È]]Üš]K[Y[\ÜÈÜ›İİ[™YÚÛÛ˜\İYØZ[œİYÚİ\™˜XÙ\Ëˆ\ÙY›ÜˆÛÜ™H˜]šYØ][Û‹YÚY[\\Ú\È^[™š[˜Ú\[Xİ[Ûˆ˜XÚÙÜ›İ[™Ë‚‹H
+Š”ÙXÛÛ™\H
+ĞÌ‘ÎH\œ˜XÛİH[X™\ŠNŠŠˆ]›ÚÚ[™ÈØ\›HÛ^HİËš\™K\›Ø\İYš[YÙHÛÙ™™YK[™İ[˜˜ZÙY›ÛÙˆ[\Ëˆ™\Ù\™Y›Üˆš[X\HÛÛ™\œÚ[ÛˆÛÚÜËYÚYÚ˜YÙ\Ë[™\™Ù[ÛÛ^X[[\Ë‚‹H
+Š•\X\H
+ÍLÎM‘˜HØYÙH]\™[
+NŠŠˆHÛÙ[™Y›ÛXYÙHÛ™H›İšY[™È™\İ[˜[œÚ][ÛœËˆ\YYÈİ\Ü]™H[™XØ]ÜœËİXH˜YÙ\ËYÜË[™ÙXÛÛ™\H]Ûˆİ]\Ë‚‹H
+Š“™]]˜[
+ÍÍ‘MXHÙX]\™YXZÈÈ˜]ÈØ[™İÛ™JNŠŠˆH˜[[˜ÙYØ\›H]\H™]]˜[ØØ[Kˆ]™]™[Èİ\š[H\™HÜ™^\Ë™\Ù\š[™È[ˆÜ™Ø[šXÈ\˜ÚY[™Y[XÜ›ÜÜÈ˜XÚÙÜ›İ[™Ë›Ü™\œË[™]]Yİ\Ü[™ÈÛÜK‚‚ˆÈÈÈ[˜İ[Û˜[\XØ][Ûˆ	ˆ™XYXš[]B‹HØ[˜\È˜XÚÙÜ›İ[™Y˜][ÈÈHØ\›HÛÙØ[™
+ÑQÑŒ˜
+K[[Z[˜][™ÈH\œÚÛ\™HÙˆÑ‘‘‘‘‘˜‚‹Hİ\™˜XÙHØ\™È][^™H\™HØ\›HÚ]H
+Ñ‘‘‘‘‘˜
+HÈÜÛÙHYØZ[œİHØ[™˜XÚÙ›Ü‚‹H^ÛÛ˜\İİšXİHØ]\ÙšY\ÈĞĞQÈ‹ŒHPKĞPPHÛÛ\X[˜ÙHXÜ›ÜÜÈ[YÙ\ËZ\š[™ÈÌPÌÌ˜›Üˆš[X\HÛÛ[[™ÌÑLĞLÍ˜›Üˆ^[™Y™XY[™È\˜YÜ˜\Ë‚‚ˆÈÈ\ÙÜ˜\B•H\ÙÜ˜\XØ[Y\˜\˜ÚH˜[[˜Ù\ÈÜ˜YYY]ÜšX[\š]YÙHÚ]ÛÛ[\Ü˜\HYÚXš[]H[™\ˆšY[˜]™[ÛÛ™][ÛœË‚‚ˆÈÈÈ›Û›Û\Â‹H
+Š‘\Ü^H	ˆXY[™\È
+\[ÙİYX
+NŠŠˆHÙ[ÛY]šXÈÜ›İ\Ü]YHÚ]İXHY[ÜŞ[˜Ü˜]XÈÚ\˜Xİ\‹ˆ]Ø\œšY\È[ˆX\KXİ[H›ÚXÙH™[Z[š\ØÙ[Ùˆ]\œ™\ÜÈÜİ\œÈ[™š[YÙHØ^Yš[™[™ÈÚYÛ˜YÙHÚ]İ]™Y[[™È[\]X]Y‚‹H
+Š›ÙH	ˆÛÛ›ÛÈ
+\È˜ZØ\HØ[œØ
+NŠŠˆ\ÚYÛ™YÚ]Ü[ˆÛİ[\œËÙ[™\›İ\ÈZZYÚ[™Ü[Z^™YØÜ™Y[ˆÙ[ÛY]Kˆ[œİ\™\ÈX^[][HYÚXš[]H›ÜˆXÚØYÙH][™\˜\šY\Ë›ÛÚÚ[™È[œİXİ[ÛœË[™İ[\˜[˜\œ˜]]™\ÈXÜ›ÜÜÈ]™\œÙH[Øš[H]šXÙ\Ë‚‚ˆÈÈÈXØÙ\ÜÚXš[]Hİ[™\™Â‹H˜\ÙH™XY[™ÈÚ^™H›Üˆİ[™\™\˜YÜ˜\›ØÚÜÈ™]™\ˆ›ÜÈ™[İÈMœ‚‹HYÚXÛÛ˜\İ]\™›Ü›HÙZYÚÈ
+Œ[™Ì
+H\™H\ÙY›ÜˆX™[È[™[\˜Xİ]™HšYÙÙ\œÈÈ\ÜÚ\İ\Ù\œÈœ›İÜÚ[™È[ˆœšYÚİ[›YÚ‚‚ˆÈÈ^[İ]	ˆÜXÚ[™ÂH™\ÜÛœÚ]™H[Øš[KYš\œİŞ\İ[HZ[\›İ[™˜]\˜[œ™X][™ÈÜXÙH[™Y™›Ü\ÜÈÚ[™ÛK][Xˆ[\˜Xİ[Û‹‚‚ˆÈÈÈœ™XZÜÚ[È	ˆ›ZYÜšY‹H
+Š“[Øš[H
+
+NŠŠˆÚ[™ÛKXÛÛ[[ˆİXÚÙY›ZYÜšYÚ]X\™Ú[ˆ\™[X[™İ]\ˆ\™[XˆÛÛ[İ™]Ú\ÈYÙK]ËYYÙHÚ][ˆØY™Hİ]\œËˆÙ^H[\˜Xİ]™HÛÛ\Û™[ÈÚ]Ú][ˆH›İÛHŒ	H[Xˆ™XXÚ›Û™K‚‹H
+Š•X›]
+8 $ÈL
+NŠŠˆ‹XÛÛ[[ˆ›ZYÜšYX\™Ú[‹]X›]ˆœ™[Xİ]\‹]X›]ˆK\™[Xˆİ\ˆXÚØYÙ\ËÛY\İ^HØ\™Ë[™İÈØ[\šY\È™Y›İÈ[È‹XÛÛ[[ˆÜ›İ\[™ÜË‚‹H
+Š‘\ÚİÜ
+ˆL
+NŠŠˆL‹XÛÛ[[ˆ^[İ]Ø\Y]HÛÛY›ÜX›HX^[][HÛÛZ[™\ˆÚYÙˆLŒX\™Ú[‹Y\ÚİÜˆÜ™[Xİ]\‹Y\ÚİÜˆœ™[X‚‚ˆÈÈÈİXÚQš\œİš]B‹HİšXİZ[š[][H\™Ù]Ú^™H›Üˆ[\˜Xİ]™H][\È\È
+™XÛÛ[Y[™YLœ›Üˆš[X\H›ÛÚÚ[™ÈÕH]ÛœÊHÈ™]™[Z\Ë]\Ë‚‹HÛÛ\Û™[Ü›İ\[™ÜÈ][^™HÜXÙK[Y
+\™[X
+H[\›˜[H[™ÜXÙK^
+‹\™[X
+H™]ÙY[ˆ[™\[™[˜\œ˜]]™HÙXİ[ÛœË‚‚ˆÈÈ[]˜][Ûˆ	ˆ\‘[]˜][ÛˆZ[ZXÜÈÛÙ˜]\˜[İ[›YÚY™\ÙY›İYÚZ\İ][^š[™È^Y\™YØ[™][Y›ÜÚYİÜÈ˜]\ˆ[ˆŞ[]XÈ›XÚÈÚYİÜË‚‚ˆÈÈÈ][ÜÜ\šXÈÚYİÈ^Y\œÂ‹H
+Š”™\İ[™ÈØ\™È
+]™[JNŠŠˆ›Ş\ÚYİÎˆMœLœ™Ø˜JËËLŒŠKœœL\™Ø˜JLNLLLKŒ
+NØˆ›İšY\ÈÙ[HYYØZ[œİHØ\›HØ[˜\ÈÚ]İ]\œÚ[[™X][Û‹‚‹H
+Š’[\˜Xİ]™H[]˜]YÈİ™\ˆ
+]™[ŠNŠŠˆ›Ş\ÚYİÎˆLœM™Ø˜JËËLŒL
+KLœLœ™Ø˜JNMLKM‹Œ
+NØˆ\YYÈ\Y][\Ë›Øİ\ÙYØ\™Ë[™[\˜Xİ]™HÛY\İ^H™]šY]ÜË‚‹H
+Š“[Ù[È	ˆİXÚŞH˜]šYØ][Ûˆ
+]™[ÊNŠŠˆ›Ş\ÚYİÎˆŒÌœMœ™Ø˜JËËLŒM
+KMœM™Ø˜JLNLLLKŒ
+NØˆ[]˜]\È›Ø][™È›İÛH›ÛÚÚ[™È˜\œÈ[™[Y\™Ù[˜ŞHİZYHÚY]Ë‚‚ˆÈÈÈ›Ü™\ˆœ˜[Z[™Â‘[[Y[È[\ŞHHZ\›[™H›Ü™\ˆ
+\ÛÛY™Ø˜JLNLLLKŒLŠX
+H[ˆ[™[HÚ][]˜][ÛˆÈ[œİ\™H\İ[˜İ›İ[™\šY\ÈÛˆİËXœšYÚ™\ÜÈØÜ™Y[œË‚‚ˆÈÈÚ\\Â‘Ù[ÛY]H™Y›XİÈ˜]\˜[\™ÛÛ›ÛZXÜÎˆš]™\ˆİÛ™\Ë›İ[™YÛÛÙ›Ú[™\K[™Ü™Ø[šXÈÙ\˜[ZXÈØ\™K‚‚ˆÈÈÈÛÜ›™\ˆ˜Y]\ÈŞ\İ[B‹H
+Š˜\ÙHÛÛ\Û™[È
+›İ[™YÈ\™[HÈ
+NŠŠˆ›Ü›H[œ]šY[ËÛX[˜YÙ\Ë[™][]HÚ\Ë‚‹H
+ŠÛÛZ[™\œÈ	ˆİ\™˜XÙ\È
+›İ[™Y[ØÈ\™[HÈMœ
+NŠŠˆİ\ˆØ\™Ë™]šY]È›ØÚÜËÛY\İ^H]Z[Ø\™Ë[™ÛÛ^X[[\˜[›™\œË‚‹H
+Š’\›È	ˆX[ÙÈ[˜ÛÜİ\™\È
+›İ[™Y^ÈK\™[HÈ
+NŠŠˆ›İÛHÚY]Ë[Ù[X[ÙİY\Ë›ÛZ[™[[XYÙHØ\›İ\Ù[Ë[™›ØØ[›Û[İ[ÛˆÛÛZ[™\œË‚‹H
+Š‘[[
+›İ[™YY[
+NŠŠˆ›Ø][™ÈXİ[Ûˆ]ÛœËš[X\HXİ[Ûˆ]ÛœË[™Ø]YÛÜH[š[\œË‚‚ˆÈÈÛÛ\Û™[Â‚ˆÈÈÈ]ÛœÈ	ˆØ[]ËPXİ[ÛœÂ‹H
+Š”š[X\HÕH
+”\Ø[ˆÙZØ\˜[™ÈˆÈ’™[Z˜ZHZÙ]ŠNŠŠ‚ˆHZ[š[][HZYÚˆLœ
+š[™Ù\‹YœšY[™JK‚ˆH˜XÚÙÜ›İ[™ˆÙXÛÛ™\H\œ˜XÛİH[X™\ˆ
+ĞÌ‘Î
+HÚ]Üš\ÜÚ]HX™[^
+Ñ‘‘‘‘‘˜
+H[ˆX™[[ØÙ[ZKX›Û‚ˆH›Ü™\ˆ˜Y]\Îˆ[[
+NNN\
+HÜˆ›İ[™Y[Ø‚ˆHXİ]™Hİ]NˆİXHØØ[HİÛˆ
+N
+HÚ]\šÙ[™Y[X™\ˆ˜XÚÙÜ›İ[™
+ĞNNL
+K‚‹H
+Š”ÙXÛÛ™\HXİ[Ûˆ
+“Z]]HˆÈ’X[™ÚH[™Ù[ÛHŠNŠŠ‚ˆH˜XÚÙÜ›İ[™ˆ˜[œÜ\™[Ú]œÛÛYš[X\H›Ü™\İÜ™Y[ˆ
+ÌPÌÌ˜
+K‚ˆH^ˆÌPÌÌ˜X™[[Ø‚‹H
+Š•\X\HÈÛÙXİ[ÛŠŠ‚ˆH˜XÚÙÜ›İ[™ˆØYÙH[
+ÍLÎM‘˜]L	HÜXÚ]JHÚ]ÌPÌÌ˜X™[‚‚ˆÈÈÈ^\šY[˜ÙH	ˆÛY\İ^HØ\™Â‹HİXİ\™Nˆİ™\™›İËZY[ˆÛÛZ[™\ˆÚ]›İ[™Y[ØÜˆ›İ[™Y^Ø\›HÚ]H˜XÚÙÜ›İ[™
+Ñ‘‘‘‘‘˜
+K[™]™[H[]˜][Û‹‚‹H[XYÙ\NˆÜX[˜ÚÜ™YÚ][ˆ\ÜXİ˜][ÈÙˆMŒL
+[Øš[JHÜˆŒØ
+\ÚİÜ
+K™X]\š[™ÈHİXH˜]\˜[Ø\›]İ™\›^K‚‹HÛÛ[\™XNˆÜXÙK[Y[\›˜[Y[™Ëˆ\Ü^\È›ÛšXÙHÚ[È[ˆÌPÌÌ˜ØØ][ÛˆYÈÚ][ˆXÛÛˆ[ˆÍLÎM‘˜[™[œİ[›ÛÚÚ[™ÈšYÙÙ\œË‚‚ˆÈÈÈÚ\È	ˆØ]YÛÜHš[\œÂ‹HZYÚˆÚ]Ù[™\›İ\ÈÜš^›Û[Y[™È
+KŒ\™[X
+K‚‹H[˜Xİ]™NˆÑ‘‘‘‘‘˜š[Ú]\›Ü™\ˆÙˆ™Ø˜JLNLLLKŒŠX[™^[ˆÍÍ‘MX‚‹HXİ]™HÈÙ[XİYˆ›Ü™\İÜ™Y[ˆš[
+ÌPÌÌ˜
+HÚ]Ú]H^[™›È›Ü™\‹‚‚ˆÈÈÈ[œ]šY[È	ˆÙX\˜Ú˜\œÂ‹HZYÚˆZ[š[][HLœÚ][\›˜[XÛÛˆ[™XØ]ÜœÈ
+K™Ë‹ÙX\˜ÚXÛÛ‹Ø[[™\ŠK‚‹H˜XÚÙÜ›İ[™ˆÑ‘‘‘‘‘˜Ú]Ø\›H›Ü™\ˆK\ÛÛY™Ø˜JLNLLLKŒJX‚‹H›Øİ\Èİ]Nˆ›Ü™\ˆ˜[œÚ][ÛœÈÈÌPÌÌ˜Ú]HÜÛİÚ[™Èš[™È[ˆ™Ø˜JËËLŒMJXˆ›ÈİY[ˆ^[İ]ÈÚYË‚‹H›Ø][™ÈX™[ÎˆÙ\YÚXÛÛ˜\İ[ˆ›ÙK\ÛX›ÜˆX\ŞHØØ[›š[™ÈH[YÙHÜ›İ\Ë‚‚ˆÈÈÈÚXÚØ›Ş\È	ˆ˜Y[ÈÛÛ›ÛÂ‹H\™Ù]Ú^™NˆZ[š[][HİXÚ]\™XHÙˆ0åÈÚ]Hš\ÚX›HÛÛ›ÛÚ^™HÙˆ0åÈ‚‹HXİ]™HÛÛÜˆÌPÌÌ˜XÚÈÚ]YÚXÛÛ˜\İÚ]HÛ\‚‚ˆÈÈÈİXÚŞH›İÛH›ÛÚÚ[™È˜]Ù\ˆ
+[Øš[KQš\œİ
+B‹Hš^Y›İÛH˜\ˆÛˆ[Øš[HØÜ™Y[œÈİ\Ú[™Èš[YÙHÙX]\ˆİ[[X\Kİ[XÚØYÙHšXÙK[™H\œÚ\İ[LœÕH]Ûˆ›Üˆ[[YYX]HÚ]Ğ\Üˆ\™Xİ›ÛÚÚ[™ÈXØÙ\ÜË
